@@ -1,0 +1,50 @@
+[Adblock Plus 2.0]
+! [Icelandic]
+! Forked from Garðar at http://adblock.gardar.net
+.is/ads/
+.is/*/ads/
+.is/augl/
+.is/*/augl/
+visir.is###topadbanner
+dv.is##.gardina
+dv.is##kragi
+ja.is##.adw
+pressan.is###skyscrapper
+|http://skilo.is/orbit/*
+||bland.is/*/click.aspx?id=*
+||pressan.is/img/banners/*
+||fotbolti.net/banners/*
+||vf.is/files/*
+||visitreykjavik.is/PortalData/1/Resources//flash/*
+||doktor.is/images/banners/aads/*
+||f4x4.is/images/banners/*
+||dagskrain.is/static/auglysingar/*
+||utvarpsaga.is/images/banners/*
+||dfs.is/images/banners/*
+||siglo.is/static/auglysingar/*
+||freisting.is/logo/banners/*
+||freisting.is/skjalasafn/flash/*
+||freisting.is/skjalasafn/bordar/*
+||austurglugginn.is/images/banners/*
+||veitingastadir.is/resources/Files/*
+||leikjaland.is/images/banners*
+||boksala.is/portaldata/1/resources/Bannerar/*
+|http://www.flass.is/banners/*
+bb.is##.banner-container
+bb.is##.banner
+smugan.is##OBJECT[width="300"]
+smugan.is##.header_add
+kki.is##.AuglysingaHnappur
+skessuhorn.is##.tdAuglMidja
+skessuhorn.is##.imgAuglHead
+skessuhorn.is###imgAuglRight_1
+skessuhorn.is###imgAuglRight_4
+eidfaxi.is##.forsaugl
+foreldrahandbokin.is###adinj-2
+sporttv.is##.ad-tower
+sporttv.is##.banner
+sporttv.is##DIV[style="padding: 20px 0; text-align: center;"]
+veitingastadir.is##[id*="HeaderAd"]
+##A[href^="/framework/resources/forms/ads.aspx"]
+bland.is#div(id*=advImg)
+bland.is##.boughtsmas.box
