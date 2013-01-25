@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! [Icelandic]
-! Forked from Garðar at http://adblock.gardar.net
+! Forked from Gardar at http://adblock.gardar.net
+! 25/1/2013
 .is/ads/
 .is/*/ads/
 .is/augl/
@@ -33,8 +34,6 @@ pressan.is###skyscrapper
 bb.is##.banner-container
 bb.is##.banner
 smugan.is##OBJECT[width="300"]
-
-! Auglýsingar sem birtast á m.dv.is
 track.adform.net/*
 smugan.is##.header_add
 kki.is##.AuglysingaHnappur
