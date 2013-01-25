@@ -33,6 +33,9 @@ pressan.is###skyscrapper
 bb.is##.banner-container
 bb.is##.banner
 smugan.is##OBJECT[width="300"]
+
+! Auglýsingar sem birtast á m.dv.is
+track.adform.net/*
 smugan.is##.header_add
 kki.is##.AuglysingaHnappur
 skessuhorn.is##.tdAuglMidja
