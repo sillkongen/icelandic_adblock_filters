@@ -9,6 +9,7 @@
 visir.is###topadbanner
 dv.is##.gardina
 dv.is##kragi
+82.221.39.93/media/flash_files/*
 ja.is##.adw
 pressan.is###skyscrapper
 |http://skilo.is/orbit/*
