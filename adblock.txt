@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! [Icelandic]
-! Forked from Gardar at http://adblock.gardar.net
-! 25/1/2013
+! Last pdated on 26/1/2013
 .is/ads/
 .is/*/ads/
 .is/augl/
@@ -52,3 +51,4 @@ veitingastadir.is##[id*="HeaderAd"]
 ##A[href^="/framework/resources/forms/ads.aspx"]
 bland.is#div(id*=advImg)
 bland.is##.boughtsmas.box
+! Forked from Gardar at http://adblock.gardar.net
