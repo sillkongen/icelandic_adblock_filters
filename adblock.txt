@@ -36,6 +36,7 @@ bb.is##.banner
 smugan.is##OBJECT[width="300"]
 track.adform.net/*
 s1.adform.net/*
+soda.is.*
 smugan.is##.header_add
 kki.is##.AuglysingaHnappur
 skessuhorn.is##.tdAuglMidja
