@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! [Icelandic]
-! Last pdated on 26/1/2013
+! Last pdated on 2/2/2013
 .is/ads/
 .is/*/ads/
 .is/augl/
