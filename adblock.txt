@@ -8,7 +8,7 @@
 visir.is###topadbanner
 dv.is##.gardina
 dv.is##kragi
-mbl.is/frettir###.yfirhaus-augl
+mbl.is##.sol*
 ||dv.is/media/news/kragi/*
 82.221.39.93/media/flash_files/*
 ja.is##.adw
