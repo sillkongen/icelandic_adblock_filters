@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! [Icelandic]
-! Last pdated on 2/2/2013
+! [Icelandic ABP filters]
+! Last updated on 15/6/2013
 .is/ads/
 .is/*/ads/
 .is/augl/
@@ -41,6 +41,7 @@ smugan.is##OBJECT[width="300"]
 track.adform.net/*
 s1.adform.net/*
 www.soda.is/*
+82.196.13.38/*
 smugan.is##.header_add
 kki.is##.AuglysingaHnappur
 skessuhorn.is##.tdAuglMidja
