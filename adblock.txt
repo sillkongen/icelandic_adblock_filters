@@ -86,4 +86,10 @@ ads.aha.is/
 www.dv.is##.fb_ltr
 www.visir.is##.x6
 www.dv.is###cboxOverlay
+www.pressan.is##.bp4
+www.pressan.is##.bp26
+www.pressan.is###13_3623
+pressan.is###spoton
+pressan.is##.fb_ltr
+bleikt.pressan.is##.fb_ltr
 ! Forked from Gardar at http://adblock.gardar.net
