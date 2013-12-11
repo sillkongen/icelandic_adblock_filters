@@ -83,12 +83,12 @@ infront.is###like
 ads.bleikt.is/
 ads.pressan.is/
 ads.aha.is/
-||dv.is##.fb_ltr
-||visir.is##.x6
-||dv.is###cboxOverlay
-||pressan.is##.bp4
-||pressan.is##.bp26
-||pressan.is###13_3623
-||pressan.is###spoton
-||pressan.is##.fb_ltr
+dv.is##.fb_ltr
+visir.is##.x6
+dv.is###cboxOverlay
+pressan.is##.bp4
+pressan.is##.bp26
+pressan.is###13_3623
+pressan.is###spoton
+pressan.is##.fb_ltr
 ! Forked from Gardar at http://adblock.gardar.net
