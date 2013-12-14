@@ -84,7 +84,7 @@ ads.bleikt.is/
 ads.pressan.is/
 ads.aha.is/
 dv.is##.fb_ltr
-visir.is##.x6
+! visir.is##.x6
 dv.is###cboxOverlay
 pressan.is##.bp4
 pressan.is##.bp26
