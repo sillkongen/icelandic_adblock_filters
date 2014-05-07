@@ -1,0 +1,33 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+fe80::1%lo0     localhost
+
+# adblock visir og dv.is  6/5/2014
+
+127.0.0.1       ping.chartbeat.net
+127.0.0.1       openad.visir.is
+127.0.0.1       vefbordar.hagkaup.is
+127.0.0.1       banners.23.is
+127.0.0.1       s.greenqloud.com
+127.0.0.1       soda.is
+127.0.0.1       www.soda.is
+127.0.0.1       www.forlagid.is
+127.0.0.1       forlagid.is
+127.0.0.1       animate.adobe.com
+127.0.0.1       nettengsl.is
+127.0.0.1       hopkaup.is
+127.0.0.1       apache.hvitahusid.is
+127.0.0.1       fjarmalahreysti.is
+127.0.0.1       www.arionbanki.is
+
+#eyjan
+127.0.0.1       ads.pressan.is
+127.0.0.1       ads.spoton.is
+127.0.0.1       static.spoton.is
