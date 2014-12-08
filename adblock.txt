@@ -8,6 +8,8 @@
 visir.is###topadbanner
 dv.is##.gardina
 dv.is##kragi
+dv.is##.kragi_thumb
+||dv.is/media/news/kragi/*
 ||mbl.is###slot-633-content
 ||mbl.is##.advert
 !http://www.mbl.is/augl/files/04/ad_20424_26098.swf
