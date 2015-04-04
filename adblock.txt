@@ -93,4 +93,6 @@ pressan.is##.bp26
 pressan.is###13_3623
 pressan.is###spoton
 pressan.is##.fb_ltr
+dv.is##.cola-right
+dv.is##.cola-left
 ! Forked from Gardar at http://adblock.gardar.net
