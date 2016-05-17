@@ -96,4 +96,8 @@ pressan.is##.fb_ltr
 dv.is##.cola-right
 dv.is##.cola-left
 ||static.bordar.is/*
+||030876vw.com
+||static.airserve.net
+||vefbordar.jl.is
+||vefbordi.is
 ! Forked from Gardar at http://adblock.gardar.net
