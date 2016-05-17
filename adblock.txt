@@ -100,4 +100,5 @@ dv.is##.cola-left
 ||static.airserve.net
 ||vefbordar.jl.is
 ||vefbordi.is
+||kontorreykjavik.is/*
 ! Forked from Gardar at http://adblock.gardar.net
