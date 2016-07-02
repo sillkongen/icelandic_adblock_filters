@@ -101,4 +101,5 @@ dv.is##.cola-left
 ||vefbordar.jl.is
 ||vefbordi.is
 ||kontorreykjavik.is/*
+||1819.is/*
 ! Forked from Gardar at http://adblock.gardar.net
