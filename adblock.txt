@@ -102,4 +102,5 @@ dv.is##.cola-left
 ||vefbordi.is
 ||kontorreykjavik.is/*
 ||1819.is/*
+||bilasolur.is/AdPlayer.aspx*
 ! Forked from Gardar at http://adblock.gardar.net
