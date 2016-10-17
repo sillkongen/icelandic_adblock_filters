@@ -103,4 +103,5 @@ dv.is##.cola-left
 ||kontorreykjavik.is/*
 ||1819.is/*
 ||bilasolur.is/AdPlayer.aspx*
+||cdn.tix.is/tix/Ads/
 ! Forked from Gardar at http://adblock.gardar.net
