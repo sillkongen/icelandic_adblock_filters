@@ -104,4 +104,11 @@ dv.is##.cola-left
 ||1819.is/*
 ||bilasolur.is/AdPlayer.aspx*
 ||cdn.tix.is/tix/Ads/
+1819.is##.augl.augl-size-1018
+icelandreview.com##.ir-surprise-list
+||static.airserve.net/
+austurfrett.is##.uk-width-1-1.uk-width-large-1-4
+karfan.is##.ad-pos
+||vefbordar.offorsi.is/
+skessuhorn.is##.kostad-efni
 ! Forked from Gardar at http://adblock.gardar.net
