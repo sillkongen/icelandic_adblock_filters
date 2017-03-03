@@ -111,4 +111,6 @@ austurfrett.is##.uk-width-1-1.uk-width-large-1-4
 karfan.is##.ad-pos
 ||vefbordar.offorsi.is/
 skessuhorn.is##.kostad-efni
+||nutiminn.is/popupads/*
+
 ! Forked from Gardar at http://adblock.gardar.net
