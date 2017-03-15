@@ -99,7 +99,7 @@ dv.is##.cola-left
 ||030876vw.com
 ||static.airserve.net
 ||vefbordar.jl.is
-||vefbordi.is
+||vefbordi.is/*
 ||kontorreykjavik.is/*
 ||1819.is/*
 ||bilasolur.is/AdPlayer.aspx*
