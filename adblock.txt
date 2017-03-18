@@ -112,5 +112,6 @@ karfan.is##.ad-pos
 ||vefbordar.offorsi.is/
 skessuhorn.is##.kostad-efni
 ||nutiminn.is/popupads/*
+nutiminn.is##.slickOverlay.closeModal.setCookie-1
 
 ! Forked from Gardar at http://adblock.gardar.net
