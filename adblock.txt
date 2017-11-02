@@ -12,6 +12,7 @@ dv.is##.kragi_thumb
 ||dv.is/media/news/kragi/*
 ||mbl.is###slot-633-content
 ||mbl.is##.advert
+||http://cdn.mbl.is/augl/*
 !http://www.mbl.is/augl/files/04/ad_20424_26098.swf
 ||dv.is/media/news/kragi/*
 82.221.39.93/media/flash_files/*
