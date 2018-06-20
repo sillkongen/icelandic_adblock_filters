@@ -77,6 +77,7 @@ menn.is###text_mnky-2
 menn.is###text_mnky-3
 mbl.is###slot-668
 mbl.is##.augl
+||mbl.is/edda/*
 ||kynning.olis.is/
 pressan.is##.randombanner-upperright
 apache.hvitahusid.is###augl
@@ -114,5 +115,6 @@ karfan.is##.ad-pos
 skessuhorn.is##.kostad-efni
 ||nutiminn.is/popupads/*
 nutiminn.is##.slickOverlay.closeModal.setCookie-1
+
 
 ! Forked from Gardar at http://adblock.gardar.net
