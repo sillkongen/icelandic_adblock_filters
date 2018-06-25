@@ -117,6 +117,8 @@ karfan.is##.ad-pos
 skessuhorn.is##.kostad-efni
 ||nutiminn.is/popupads/*
 nutiminn.is##.slickOverlay.closeModal.setCookie-1
+||aka-cdn-ns.adtech.de/*
+||adserver.adtech.de/*
 
 
 ! Forked from Gardar at http://adblock.gardar.net
