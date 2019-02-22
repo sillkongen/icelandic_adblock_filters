@@ -120,6 +120,6 @@ skessuhorn.is##.kostad-efni
 nutiminn.is##.slickOverlay.closeModal.setCookie-1
 ||aka-cdn-ns.adtech.de/*
 ||adserver.adtech.de/*
-
+||cdn.bannersnack.com/*
 
 ! Forked from Gardar at http://adblock.gardar.net
