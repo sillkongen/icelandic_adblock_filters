@@ -47,6 +47,7 @@ smugan.is##OBJECT[width="300"]
 track.adform.net/*
 s1.adform.net/*
 www.soda.is/*
+www.soda.is//*
 82.196.13.38/*
 smugan.is##.header_add
 kki.is##.AuglysingaHnappur
