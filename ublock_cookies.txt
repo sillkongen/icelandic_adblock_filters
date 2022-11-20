@@ -1,0 +1,14 @@
+! 2022-11-20 https://www.mbl.is
+www.mbl.is###cookie-consent
+
+! 2022-11-20 https://www.visir.is
+www.visir.is##.bottom-disclaimer
+
+! 2022-11-20 https://www.frettabladid.is
+www.frettabladid.is##.cc-color-override-529249457.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+
+! 2022-11-20 https://www.ruv.is
+www.ruv.is##.cc-color-override-530898243.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2022-11-20 https://bland.is
+bland.is##.cookie-banner
